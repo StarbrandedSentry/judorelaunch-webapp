@@ -6,3 +6,15 @@
     --s: #4A4607;
     --s_light: #96912C;
 }
+
+*{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-shadow:none;
+    text-rendering: optimizeLegibility;
+    font-family: 'Hind', sans-serif;
+    font-size: 1em;
+}
+body{
+    margin: 0;
+}
